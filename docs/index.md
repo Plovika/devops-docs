@@ -9,4 +9,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Plovika.github.io/devops-docs/`.
-[Битая ссылка](nonexistent.md)
